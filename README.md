@@ -4,4 +4,4 @@
 
 |project| status     |
 |:--------------:|:-----------:|
-| **[LIBFT](https://github.com/lpincoli/ft_printf42)** | [![lpincoli's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clgrwg5oo005108ky6p2e79jm/project/2831128)](https://github.com/JaeSeoKim/badge42)    |
+| **[FT_PRINTF](https://github.com/lpincoli/ft_printf42)** | [![lpincoli's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clgrwg5oo005108ky6p2e79jm/project/2831128)](https://github.com/JaeSeoKim/badge42)    |
