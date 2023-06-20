@@ -7,9 +7,8 @@
 
 <table>
     <tr>
-        <a href="https://github.com/lpincoli">
-            <img src="https://awesome-github-stats.azurewebsites.net/user-stats/lpincoli?cardType=level&theme=tokyonight" width="397" height="200">
-        </a> 
+      # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lpincoli&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
         <a href="https://github.com/lpincoli?tab=repositories">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpincoli&hide=swift,roff,perl&layout=compact&theme=tokyonight" width="380" height="200">
         </a>
